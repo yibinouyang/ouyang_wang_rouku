@@ -1,7 +1,7 @@
 # Ouyangyibin & Wangjianghaonan ROUKU PROJECT
 ## ROUKU
 
-Rokuflashback app-- is a mobile-first audio / video app  that user can login filter by medium / genre and select a movie, tv
+Rokuflashback app-- is a mobile-first audio and video app  that user can login filter by medium or genre and select a movie, tv
 show or audio based on user profile.
 
 
@@ -26,7 +26,7 @@ mobile first responsive;
 
 
 ### License
-fanshawe.copyright
+MIT
 
 ### Authors 
 * OuyangYibin ___ Developer

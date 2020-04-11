@@ -9,8 +9,8 @@
 
     //This is the DB credentials
 
-    $db_user = 'test';
-    $db_pass = 'test';
+    $db_user = 'root';
+    $db_pass = '';
 
     try{
         $pdo = new PDO($dsn, $db_user, $db_pass);
